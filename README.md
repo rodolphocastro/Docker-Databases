@@ -14,13 +14,15 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 
 ## Databases prontas para uso
 
-> Infelizmente não temos nenhuma database ainda!
+| Nome | Diretório | Observações |
+| ---- | --------- | ----------- |
+| MySql | my-sql | Utilizando `AdMiner` como Gui, na porta `8080` |
 
 ## Roadmap
 
 Planejo disponibilizar configurações, inicialmente, para as seguintes databases:
 
-1. MySql
+1. ~~MySql~~
 2. SqlServer
 3. MariaDb
 4. Postgresql

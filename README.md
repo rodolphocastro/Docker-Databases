@@ -18,6 +18,7 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 | ---- | --------- | ----------- |
 | MySql | my-sql | Utilizando `AdMiner` como Gui, na porta `8080` |
 | SqlServer | sql-server | Sem interfaces gráficas |
+| MariaDb | maria-db | Utilizando `AdMiner` como Gui, na porta `8080` |
 
 ## Roadmap
 
@@ -25,7 +26,7 @@ Planejo disponibilizar configurações, inicialmente, para as seguintes database
 
 1. ~~MySql~~
 2. ~~SqlServer~~
-3. MariaDb
+3. ~~MariaDb~~
 4. Postgresql
 5. MongoDb
 6. Couchdb

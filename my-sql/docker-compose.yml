@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  db:
+    # Instrucoes adicionais podem ser encontradas em https://hub.docker.com/_/mysql
+    image: mysql:${TAG}
+    environment:
+      MYSQL_ROOT_PASSWORD: ${ROOT_PASSWORD}
+    ports:
+      - 3306:3306

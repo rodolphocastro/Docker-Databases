@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  db:
+    image: mariadb:${TAG}
+    environment:
+      MYSQL_ROOT_PASSWORD: ${ROOT_PASSWORD}
+    ports:
+      - "3306:3306"

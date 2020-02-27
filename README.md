@@ -32,6 +32,10 @@ Planejo disponibilizar configurações, inicialmente, para as seguintes database
 5. MongoDb
 6. Couchdb
 
+E alguns utilitários:
+
+1. Scaffold de Arquivos `.env`
+
 ## Contribuindo para o Repositório
 
 Deseja contribuir? Basta realizar o `fork` do branch `develop` do repositório, realizar suas alterações e criar um **Pull Request**!

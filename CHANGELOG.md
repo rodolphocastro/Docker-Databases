@@ -10,6 +10,8 @@ Abaixo está o histórico de alterações do projeto.
   + Com o **AdMiner** para gerenciamento
 + Compose para o **MariaDb**
   + Com o **AdMiner** para gerenciamento
++ Compose para o **Postgres**
+  + Com o **AdMiner** para gerenciamento
 + Compose para o **Sql Server**
 
 <!-- links para as versões -->

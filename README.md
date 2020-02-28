@@ -25,18 +25,22 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 
 ## Roadmap
 
-Planejo disponibilizar configurações, inicialmente, para as seguintes databases:
+Os atuais são os elementos planejados para este repositório:
 
-1. ~~MySql~~
-2. ~~SqlServer~~
-3. ~~MariaDb~~
-4. ~~Postgresql~~
-5. ~~MongoDb~~
-6. ~~Couchdb~~
-
-E alguns utilitários:
+Utilitários:
 
 1. Scaffold de Arquivos `.env`
+2. Exemplos de Pods/Deployments destas bases
+3. Documentação adicional sobre como funciona o docker-compose e sua sintaxe
+
+Outras Bases:
+
+1. Couchbase
+2. InfluxDb
+3. Cassandra
+4. RavenDb
+5. RethinkDb
+6. Firebird
 
 ## Contribuindo para o Repositório
 

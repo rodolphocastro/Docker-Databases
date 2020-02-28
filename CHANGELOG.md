@@ -2,9 +2,11 @@
 
 Abaixo está o histórico de alterações do projeto.
 
-## [0.1.0]
+## [0.1.0] - 2020-02-27
 
-## [0.1.0] - Adicionado
+Versão inicial do repositório, contendo as bases mais "famosinhas".
+
+### [0.1.0] - Adicionado
 
 + Compose para o **MySql**
   + Com o **AdMiner** para gerenciamento

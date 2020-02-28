@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  db:
+    image: postgres:${TAG}    
+    ports:
+      - 5432:5432
+    environment: 
+      POSTGRES_USER: ${ROOT_USERNAME}
+      POSTGRES_PASSWORD: ${ROOT_PASSWORD}

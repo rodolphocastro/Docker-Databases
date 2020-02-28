@@ -14,18 +14,33 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 
 ## Databases prontas para uso
 
-> Infelizmente não temos nenhuma database ainda!
+| Nome | Diretório | Observações |
+| ---- | --------- | ----------- |
+| MySql | my-sql | Utilizando `AdMiner` como Gui, na porta `8080` |
+| SqlServer | sql-server | Sem interfaces gráficas |
+| MariaDb | maria-db | Utilizando `AdMiner` como Gui, na porta `8080` |
+| Postgresql | postgresql | Utilizando `AdMiner` como Gui, na porta `8080` |
+| MongoDb | mongo-db | Utilizando o `Mongo Express` como Gui, na porta `8081` |
+| CouchDb | couch-db | Utilizando a própria interface, na porta `5984` |
 
 ## Roadmap
 
-Planejo disponibilizar configurações, inicialmente, para as seguintes databases:
+Os atuais são os elementos planejados para este repositório:
 
-1. MySql
-2. SqlServer
-3. MariaDb
-4. Postgresql
-5. MongoDb
-6. Couchdb
+Utilitários:
+
+1. Scaffold de Arquivos `.env`
+2. Exemplos de Pods/Deployments destas bases
+3. Documentação adicional sobre como funciona o docker-compose e sua sintaxe
+
+Outras Bases:
+
+1. Couchbase
+2. InfluxDb
+3. Cassandra
+4. RavenDb
+5. RethinkDb
+6. Firebird
 
 ## Contribuindo para o Repositório
 

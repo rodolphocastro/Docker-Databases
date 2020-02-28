@@ -6,6 +6,9 @@ Abaixo está o histórico de alterações do projeto.
 
 ### [Em Desenvolvimento] - Adicionado
 
++ Scripts para scaffold de `.env`
+  + Suporte a `Powershell` e `Shell Script`
+
 ## [0.1.0] - 2020-02-27
 
 Versão inicial do repositório, contendo as bases mais "famosinhas".

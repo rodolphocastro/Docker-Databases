@@ -29,7 +29,7 @@ Os atuais são os elementos planejados para este repositório:
 
 Utilitários:
 
-1. Scaffold de Arquivos `.env`
+1. ~~Scaffold de Arquivos `.env`~~
 2. Exemplos de Pods/Deployments destas bases
 3. Documentação adicional sobre como funciona o docker-compose e sua sintaxe
 

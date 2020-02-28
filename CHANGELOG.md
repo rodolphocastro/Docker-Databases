@@ -15,6 +15,7 @@ Abaixo está o histórico de alterações do projeto.
 + Compose para o **Sql Server**
 + Compose para o **MongoDb**
   + Com o **Mongo Express** para gerenciamento
++ Compose para o **CouchDb**
 
 <!-- links para as versões -->
 [0.1.0]:https://github.com/rodolphocastro/Docker-Databases/tags/0.1.0

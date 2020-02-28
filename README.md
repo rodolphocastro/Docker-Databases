@@ -21,6 +21,7 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 | MariaDb | maria-db | Utilizando `AdMiner` como Gui, na porta `8080` |
 | Postgresql | postgresql | Utilizando `AdMiner` como Gui, na porta `8080` |
 | MongoDb | mongo-db | Utilizando o `Mongo Express` como Gui, na porta `8081` |
+| CouchDb | couch-db | Utilizando a própria interface, na porta `5984` |
 
 ## Roadmap
 
@@ -31,7 +32,7 @@ Planejo disponibilizar configurações, inicialmente, para as seguintes database
 3. ~~MariaDb~~
 4. ~~Postgresql~~
 5. ~~MongoDb~~
-6. Couchdb
+6. ~~Couchdb~~
 
 E alguns utilitários:
 

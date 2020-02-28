@@ -20,6 +20,7 @@ Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` ba
 | SqlServer | sql-server | Sem interfaces gráficas |
 | MariaDb | maria-db | Utilizando `AdMiner` como Gui, na porta `8080` |
 | Postgresql | postgresql | Utilizando `AdMiner` como Gui, na porta `8080` |
+| MongoDb | mongo-db | Utilizando o `Mongo Express` como Gui, na porta `8081` |
 
 ## Roadmap
 
@@ -29,7 +30,7 @@ Planejo disponibilizar configurações, inicialmente, para as seguintes database
 2. ~~SqlServer~~
 3. ~~MariaDb~~
 4. ~~Postgresql~~
-5. MongoDb
+5. ~~MongoDb~~
 6. Couchdb
 
 E alguns utilitários:

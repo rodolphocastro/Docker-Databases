@@ -2,9 +2,15 @@
 
 Abaixo está o histórico de alterações do projeto.
 
-## [0.1.0]
+## [Em Desenvolvimento]
 
-## [0.1.0] - Adicionado
+### [Em Desenvolvimento] - Adicionado
+
+## [0.1.0] - 2020-02-27
+
+Versão inicial do repositório, contendo as bases mais "famosinhas".
+
+### [0.1.0] - Adicionado
 
 + Compose para o **MySql**
   + Com o **AdMiner** para gerenciamento
@@ -18,4 +24,5 @@ Abaixo está o histórico de alterações do projeto.
 + Compose para o **CouchDb**
 
 <!-- links para as versões -->
+[Em Desenvolvimento]:https://github.com/rodolphocastro/Docker-Databases/tree/develop
 [0.1.0]:https://github.com/rodolphocastro/Docker-Databases/tags/0.1.0

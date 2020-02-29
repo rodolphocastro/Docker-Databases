@@ -6,6 +6,20 @@ Abaixo está o histórico de alterações do projeto.
 
 ### [Em Desenvolvimento] - Adicionado
 
+### [Em Desenvolvimento] - Corrigido
+
+## [0.1.1]
+
+### [0.1.1] - Adicionado
+
++ Scripts para scaffold de `.env`
+  + Suporte a `Powershell` e `Shell Script`
+
+### [0.1.1] - Corrigido
+
++ #1 - Agora o `compose` para o **MongoDb** expõe a porta `27017`
++ #2 - Agora os links de tags do `changelog` apontam para as páginas corretas
+
 ## [0.1.0] - 2020-02-27
 
 Versão inicial do repositório, contendo as bases mais "famosinhas".
@@ -25,4 +39,5 @@ Versão inicial do repositório, contendo as bases mais "famosinhas".
 
 <!-- links para as versões -->
 [Em Desenvolvimento]:https://github.com/rodolphocastro/Docker-Databases/tree/develop
-[0.1.0]:https://github.com/rodolphocastro/Docker-Databases/tags/0.1.0
+[0.1.1]:https://github.com/rodolphocastro/Docker-Databases/tree/0.1.1
+[0.1.0]:https://github.com/rodolphocastro/Docker-Databases/tree/0.1.0

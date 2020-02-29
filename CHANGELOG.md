@@ -6,6 +6,8 @@ Abaixo está o histórico de alterações do projeto.
 
 ### [Em Desenvolvimento] - Adicionado
 
++ Compose para o **Cassandra**
+
 ### [Em Desenvolvimento] - Corrigido
 
 ## [0.1.1]

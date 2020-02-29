@@ -9,6 +9,10 @@ Abaixo está o histórico de alterações do projeto.
 + Scripts para scaffold de `.env`
   + Suporte a `Powershell` e `Shell Script`
 
+### [Em Desenvolvimento] - Corrigido
+
++ #1 - Agora o `compose` para o **MongoDb** expõe a porta `27017` corretamente
+
 ## [0.1.0] - 2020-02-27
 
 Versão inicial do repositório, contendo as bases mais "famosinhas".

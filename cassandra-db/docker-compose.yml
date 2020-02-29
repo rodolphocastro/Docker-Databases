@@ -1,0 +1,8 @@
+version: "3.7"
+
+services: 
+  db:
+    image: cassandra:${TAG}
+    restart: always
+    ports: 
+      - 7000:7000

@@ -26,6 +26,7 @@ Para realizar o scaffold dos arquivos `.env` baseados nos `.env.sample` execute 
 | Postgresql | postgresql | Utilizando `AdMiner` como Gui, na porta `8080` |
 | MongoDb | mongo-db | Utilizando o `Mongo Express` como Gui, na porta `8081` |
 | CouchDb | couch-db | Utilizando a própria interface, na porta `5984` |
+| CassandraDb | cassandra-db | Sem interface gráfica |
 
 ## Roadmap
 
@@ -41,7 +42,7 @@ Outras Bases:
 
 1. Couchbase
 2. InfluxDb
-3. Cassandra
+3. ~~Cassandra~~
 4. RavenDb
 5. RethinkDb
 6. Firebird

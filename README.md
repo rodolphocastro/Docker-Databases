@@ -12,6 +12,10 @@ Em bases de dados com interfaces gráficas existirá um `README.md` a nível de 
 
 Caso deseje customizar alguns parâmetros do ambiente, crie um arquivo `.env` baseado no `.env.example` contido na pasta.
 
+### Scaffold de arquivos .env
+
+Para realizar o scaffold dos arquivos `.env` baseados nos `.env.sample` execute o Script **Scaffold-Env-Files**.ps1|sh na raiz do repositório.
+
 ## Databases prontas para uso
 
 | Nome | Diretório | Observações |
